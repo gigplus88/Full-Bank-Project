@@ -1,0 +1,7 @@
+﻿  CRUDBankProject.cpp
+C:\Users\PC\source\repos\CRUDBankProject\CRUDBankProject.cpp(40,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PC\source\repos\CRUDBankProject\CRUDBankProject.cpp(884,17): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1256)
+C:\Users\PC\source\repos\CRUDBankProject\CRUDBankProject.cpp(884,17): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1256)
+C:\Users\PC\source\repos\CRUDBankProject\CRUDBankProject.cpp(890,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+C:\Users\PC\source\repos\CRUDBankProject\CRUDBankProject.cpp(894,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+  CRUDBankProject.vcxproj -> C:\Users\PC\source\repos\CRUDBankProject\x64\Debug\CRUDBankProject.exe
